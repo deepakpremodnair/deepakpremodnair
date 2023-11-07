@@ -12,6 +12,9 @@
   <a href="https://www.instagram.com/deepakpremodnair/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+<a href="https://twitter.com/deepaknair_" target="_blank">
+     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdeepaknair_&label=%20" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
  <hr/>
@@ -26,8 +29,6 @@
 <br/>
 <hr/>
 
-
-<hr/>
 
 <h2 align="center"> Stats </h2>
 <br>
