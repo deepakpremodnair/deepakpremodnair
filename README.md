@@ -25,11 +25,11 @@
     <img src="https://skillicons.dev/icons?i=react,cpp,html,css,vscode,github,tailwind,git,linux," />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
-
+<!------
 <br/>
 <hr/>
 
-
+<!--
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
@@ -43,3 +43,4 @@
 <hr/>
 
 <br/>
+
